@@ -12,18 +12,20 @@ My work typically starts by structuring the problem and its data flow before mov
 
 ## Selected Work
 
-### MRI → Synthetic CT for Radiotherapy
+### [MRI → Synthetic CT for Radiotherapy](https://github.com/yahya-alfar/synthetic-ct-radiotherapy-case-study)
 
 Deep learning research focused on generating pelvic synthetic CT images from MRI for radiotherapy planning.
 
-* Curated and quality-controlled paired MRI/CT cohorts with frozen train, validation, and test splits
-* Fine-tuned a pretrained **Med2Transformer**, improving male validation MAE from **73.1 to 65.1 HU (~11%)**
-* Evaluated cross-cohort generalization, reducing female zero-shot validation MAE from **261.5 to 102.0 HU**
-* Performed female-specific fine-tuning achieving **87.4 HU validation MAE**
-* Evaluated model behavior using **MAE, SSIM, PSNR, anatomical consistency, and tissue-level error analysis**
-* Used validation-driven model selection while keeping test cohorts locked during development
+- Curated and quality-controlled paired MRI/CT cohorts with frozen train, validation, and test splits
+- Fine-tuned a pretrained **Med2Transformer**, improving male validation MAE from **73.1 to 65.1 HU (~11%)**
+- Evaluated cross-cohort generalization, reducing female zero-shot validation MAE from **261.5 to 102.0 HU**
+- Performed female-specific fine-tuning achieving **87.4 HU validation MAE**
+- Evaluated model behavior using **MAE, SSIM, PSNR, anatomical consistency, and tissue-level error analysis**
+- Used validation-driven model selection while keeping test cohorts locked during development
 
 **Focus:** Medical Imaging · PyTorch · MRI/CT · Synthetic CT · Model Fine-Tuning · Generalization · Error Analysis
+
+[View full technical case study →](https://github.com/yahya-alfar/synthetic-ct-radiotherapy-case-study)
 
 ---
 
