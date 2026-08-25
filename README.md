@@ -57,7 +57,7 @@ Designed a multi-stage workflow platform around explicit roles, permissions, req
 
 ---
 
-### IoT Monitoring & Automation
+### [IoT Monitoring & Automation](https://github.com/yahya-alfar/iot-monitoring-automation)
 
 Built an end-to-end environmental monitoring workflow connecting physical sensing, cloud data, decision logic, and automated actions.
 
@@ -66,6 +66,7 @@ Built an end-to-end environmental monitoring workflow connecting physical sensin
 * Separated sensing, storage, decision logic, and notification into clear system components
 
 **Focus:** ESP32 · Firebase · n8n · Automation · Data Validation · Event-Driven Workflows
+[View full technical case study →](https://github.com/yahya-alfar/iot-monitoring-automation)
 
 ---
 
