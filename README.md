@@ -29,7 +29,7 @@ Deep learning research focused on generating pelvic synthetic CT images from MRI
 
 ---
 
-### Cephalometric Landmark Localization
+### [Cephalometric Landmark Localization](https://github.com/yahya-alfar/cephalometric-landmark-localization)
 
 Computer vision research for automated localization of anatomical landmarks in lateral cephalometric X-ray images.
 
@@ -39,6 +39,7 @@ Computer vision research for automated localization of anatomical landmarks in l
 * Performed landmark-level error analysis in millimeters to identify difficult anatomical regions and guide model refinement
 
 **Focus:** Computer Vision · PyTorch · YOLO11 · HRNet-W48 · X-ray Imaging · Landmark Localization
+[View full technical case study →](https://github.com/yahya-alfar/cephalometric-landmark-localization)
 
 ---
 
