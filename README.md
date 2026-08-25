@@ -110,5 +110,5 @@ n8n · Jupyter Notebook · Google Colab · Git
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/yahya-y-alfar-415a9432b](https://linkedin.com/in/yahya-y-alfar-415a9432b)
+- **LinkedIn:** [linkedin.com/in/yahya-y-alfar-415a9432b](linkedin.com/in/yahyaalfar/)
 - **Email:** [yahya.a.alfar@gmail.com](mailto:yahya.a.alfar@gmail.com)
