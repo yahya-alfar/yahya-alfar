@@ -43,7 +43,7 @@ Computer vision research for automated localization of anatomical landmarks in l
 
 ---
 
-### Workflow & Approval Systems
+### [Workflow & Approval Systems](https://github.com/yahya-alfar/workflow-approval-system-case-study)
 
 Designed a multi-stage workflow platform around explicit roles, permissions, request states, review stages, and controlled transitions.
 
@@ -53,6 +53,7 @@ Designed a multi-stage workflow platform around explicit roles, permissions, req
 * Structured the system around clear states and transitions to make multi-user operations understandable and auditable
 
 **Focus:** Workflow Modeling · System Design · Role-Based Access · PostgreSQL · Node.js · REST APIs
+[View full technical case study →](https://github.com/yahya-alfar/workflow-approval-system-case-study)
 
 ---
 
